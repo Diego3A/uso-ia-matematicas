@@ -40,11 +40,11 @@ Estos resultados permiten describir las respuestas de la muestra, pero no demues
 
 ### 1. Frecuencia de uso de IA para resolver problemas matemáticos
 
-![Frecuencia de uso para resolver problemas](graficas/01_frecuencia_resolucion.png)
+![Frecuencia de uso para resolver problemas](Frecuencia_uso_IA_matematicas.png)
 
 ### 2. Frecuencia de uso de IA para comprender conceptos matemáticos difíciles
 
-![Frecuencia de uso para comprender conceptos](graficas/02_frecuencia_comprension.png)
+![Frecuencia de uso para comprender conceptos](Frecuencia_comprension_IA_matematicas.png)
 
 ## Alcance y próximos pasos
 
