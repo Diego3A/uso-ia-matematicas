@@ -44,7 +44,7 @@ Estos resultados permiten describir las respuestas de la muestra, pero no demues
 
 ### 2. Frecuencia de uso de IA para comprender conceptos matemáticos difíciles
 
-![Frecuencia de uso para comprender conceptos](Frecuencia_comprension_IA_matematicas.png)
+![Frecuencia de uso para comprender conceptos](Frecuencia_entender_conceptos_IA.png)
 
 ## Alcance y próximos pasos
 
