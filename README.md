@@ -29,6 +29,9 @@ Describe la frecuencia con la que los participantes utilizan herramientas de int
 
 Estos resultados permiten describir las respuestas de la muestra, pero no demuestran que la inteligencia artificial mejore o perjudique el aprendizaje de las matemáticas.
 
+# Analisis descriptivo en comparacion a las dos variables
+Los resultados muestran que la inteligencia artificial se utiliza para ambos propósitos, pero presenta una mayor frecuencia de uso para comprender conceptos matemáticos difíciles. Mientras que para resolver problemas la respuesta más común es «Algunas veces», para comprender conceptos se destaca también la categoría «Frecuentemente». Esto sugiere que, en esta muestra, la IA tiene una presencia importante como herramienta de apoyo a la comprensión matemática. No obstante, los resultados son descriptivos y no permiten afirmar que su uso mejore directamente el aprendizaje; para establecer esa relación sería necesario analizar otras variables y contar con evidencia adicional.
+
 ## Herramientas utilizadas
 
 - Microsoft Excel.
